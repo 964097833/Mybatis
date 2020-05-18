@@ -1,4 +1,4 @@
-package com.itcast.test;
+package com.itcast.dao;
 
 import com.itcast.domain.User;
 
