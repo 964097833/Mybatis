@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="com.itcast.dao.IUserDao">
+    <select id="findAll" resultType="com.itcast.domain.User">
+        SELECT * FROM user
+    </select>
+</mapper>
